@@ -1,11 +1,10 @@
 <template>
-  <div>
+  <div :class="{change_color: scrollPosition > 400}"
+    >
     <v-parallax dark src="developing.jpg" height="1050" class="pa-15">
       <v-row justify="center">
         <v-col class="text-center">
-          <h1 class="display-2 black--text font-italic ">
-            EROS BURASTERO
-          </h1>
+          <h1 class="display-2 black--text font-italic">EROS BURASTERO</h1>
           <h4 class="headline font-italic">JUNIOR FRONT-END DEVELOPER</h4>
         </v-col>
       </v-row>
@@ -63,11 +62,10 @@
           <v-container>
             <v-row>
               <v-col cols="12" md="10" align="center" class="font-weight-black">
-                RESPONSABLE PERSON, I ALWAYS WORK WITH THE BEST
-                PRESICION AND ORGANIZATION, I ALWAYS IMPROVE THE KNOWLEDGES OF
-                THINGS THAT I FILL WITH PASION. <br />
-                I HAVE A HIGH CAPACITY TO CREATE SOLUTIONS, AND WORK WITH
-                A TEAM 
+                RESPONSABLE PERSON, I ALWAYS WORK WITH THE BEST PRESICION AND
+                ORGANIZATION, I ALWAYS IMPROVE THE KNOWLEDGES OF THINGS THAT I
+                FILL WITH PASION. <br />
+                I HAVE A HIGH CAPACITY TO CREATE SOLUTIONS, AND WORK WITH A TEAM
               </v-col>
             </v-row>
           </v-container>
@@ -105,8 +103,24 @@
 <script>
 export default {
   data() {
-    return {};
+    return {
+      scrollPosition: null,
+    };
   },
+
+  methods: {
+    updateScroll() {
+      this.scrollPosition = window.scrollY;
+    },
+    
+  },
+
+  mounted() {
+    window.addEventListener("scroll", this.updateScroll);
+    
+  },
+
+
 };
 </script>
 
@@ -114,4 +128,9 @@ export default {
 .github {
   text-decoration: none;
 }
+
+ .change_color {
+       background-color: #5C6BC0;
+       transition: all 2s;
+   }
 </style>

@@ -43,4 +43,5 @@ export default {
  div{
   user-select: none;
 }
+
 </style>
