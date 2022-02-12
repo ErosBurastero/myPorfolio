@@ -9,7 +9,7 @@
     
     </v-app-bar>
 
-    <v-main class="purple darken-4">
+    <v-main class="indigo lighten-4">
       <router-view />
     
 
@@ -38,3 +38,9 @@ export default {
   }),
 };
 </script>
+
+<style scoped>
+ div{
+  user-select: none;
+}
+</style>
