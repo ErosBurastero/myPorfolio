@@ -2,7 +2,8 @@
   <div :class="{change_color: scrollPosition > 0}"
     
     >
-    <v-parallax dark src="developing.jpg" height="1050" class="pa-15">
+    <v-parallax dark src="developing.jpg" height="1050" class="pa-15"
+    :class="{'d-flex' : $vuetify.breakpoint.xsAndDown}">
       <v-row justify="center">
         <v-col class="text-center">
           <h1 class="black--text">EROS BURASTERO</h1>
@@ -133,7 +134,7 @@ export default {
 
  .change_color {
        background-color: #3949AB;
-       transition: all 4s;
+       transition: all 5s;
    }
 
    

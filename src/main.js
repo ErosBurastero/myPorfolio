@@ -25,6 +25,10 @@ const routes = [
         component: () =>
             import ('./pages/Myself.vue'),
     },
+
+
+
+
 ]
 
 const router = new VueRouter({
