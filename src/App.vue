@@ -44,4 +44,9 @@ export default {
   user-select: none;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Rowdies:wght@300&family=Staatliches&display=swap');
+
 </style>
+

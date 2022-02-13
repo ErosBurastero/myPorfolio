@@ -1,9 +1,9 @@
 <template>
-  <v-expansion-panels focusable class="my-16">
-
+  <v-expansion-panels focusable class="panels my-16">
+    <div class="display-1 my-5">IN THIS WINDOW, YOU WILL SEE MY LANGUAGE EXPERIENCE</div>
     <v-expansion-panel>
-      <v-expansion-panel-header class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
-      <v-expansion-panel-content class="red accent-1 font-weight-black" align="center">
+      <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
+      <v-expansion-panel-content  class="red accent-1 font-weight-black"    align="center" >
         TAGS  —  META TAG  —  SEO  — HREF  — INPUTS  —  ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
@@ -32,7 +32,7 @@
     <v-expansion-panel>
       <v-expansion-panel-header class="purple darken-3 title font-weight-bold">EROS BURASTERO</v-expansion-panel-header>
       <v-expansion-panel-content class="purple lighten-1 font-weight-black " align="center">
-        JUNIOR FRONT-END DEVELOPER — LANGUAGES: ENGLISH(B2 AND IMPROVING)  — SPANISH(NATIVE)  — RUSSIAN(B2)  — ITALIAN(B1)  
+        JUNIOR FRONT-END DEVELOPER — LANGUAGES: ENGLISH (B2 AND IMPROVING)  — SPANISH (NATIVE)  — RUSSIAN (B2)  — ITALIAN (B1)  
       </v-expansion-panel-content>
     </v-expansion-panel>
 
@@ -51,3 +51,14 @@
     },
   }
 </script>
+
+<style scoped>
+
+.v-expansion-panel-content{
+   font-family: 'Staatliches', cursive;
+   font-size: 1.5em;
+}
+
+
+
+</style>

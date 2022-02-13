@@ -23,7 +23,7 @@
       </v-card-text>
 
       <v-card-text class="white--text pt-0">
-            <div class="subtitle-1"> i've created this portfolio with the purpose of showing my development content with front-end, version control, testing, etc... . I'm currently looking for a job in front-end development, if you are interesed in getting my services, contact me. We could have an interview.</div> 
+            <div class="text"> i've created this portfolio with the purpose of showing my development content with front-end, version control, testing, etc... . I'm currently looking for a job in front-end development, if you are interesed in getting my services, contact me. We could have an interview.</div> 
             <div class="d-flex justify-center"></div>
               
 
@@ -54,4 +54,10 @@
 a:visited {
     color: black;
 }
+
+.text{
+     font-family: 'Staatliches', cursive;
+      font-size: 1.2rem;
+}
+
 </style>

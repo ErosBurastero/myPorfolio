@@ -1,11 +1,12 @@
 <template>
-  <div :class="{change_color: scrollPosition > 400}"
+  <div :class="{change_color: scrollPosition > 0}"
+    
     >
     <v-parallax dark src="developing.jpg" height="1050" class="pa-15">
       <v-row justify="center">
         <v-col class="text-center">
-          <h1 class="display-2 black--text font-italic">EROS BURASTERO</h1>
-          <h4 class="headline font-italic">JUNIOR FRONT-END DEVELOPER</h4>
+          <h1 class="black--text">EROS BURASTERO</h1>
+          <h4>JUNIOR FRONT-END DEVELOPER</h4>
         </v-col>
       </v-row>
     </v-parallax>
@@ -117,6 +118,7 @@ export default {
 
   mounted() {
     window.addEventListener("scroll", this.updateScroll);
+ 
     
   },
 
@@ -130,7 +132,22 @@ export default {
 }
 
  .change_color {
-       background-color: #5C6BC0;
-       transition: all 2s;
+       background-color: #3949AB;
+       transition: all 4s;
    }
+
+   
+ h1{
+      font-family: 'Mochiy Pop P One', sans-serif;
+    }
+
+h4{
+        font-family: 'Mochiy Pop P One', sans-serif;
+
+}
+
+div{
+font-family: 'Rowdies', cursive;
+
+}
 </style>
