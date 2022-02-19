@@ -1,5 +1,5 @@
 <template>
-  <v-expansion-panels focusable class="panels my-16">
+  <v-expansion-panels focusable class="panels my-16 pa-10">
     <div class="display-1 my-5">IN THIS WINDOW, YOU WILL SEE MY LANGUAGE EXPERIENCE</div>
     <v-expansion-panel>
       <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>

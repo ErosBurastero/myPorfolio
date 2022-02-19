@@ -12,7 +12,7 @@
       </v-row>
     </v-parallax>
 
-    <v-timeline :dense="$vuetify.breakpoint.smAndDown">
+    <v-timeline :dense="$vuetify.breakpoint.smAndDown" class="pa-10">
       <v-timeline-item color="black" fill-dot right>
         <v-card>
           <v-card-title class="black">

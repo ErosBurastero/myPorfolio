@@ -26,11 +26,6 @@
 
       <v-card-text class="white--text pt-0">
             <div class="text">I'm currently looking for a job in front-end development, if you are interesed in getting my services, contact me. We could have an interview.</div> 
-        
-              
-
-          
-
       </v-card-text>
 
       <v-divider></v-divider>
