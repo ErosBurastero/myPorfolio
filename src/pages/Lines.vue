@@ -1,6 +1,6 @@
 <template>
   <v-expansion-panels focusable class="panels my-10 pa-10">
-    <h1 class="my-5">LANGUAGE EXPERIENCE</h1>
+    <h1 class="my-5">TECHNOLOGIES EXPERIENCE</h1>
     <v-expansion-panel>
       <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
       <v-expansion-panel-content  class="red accent-1 font-weight-black"    align="center" >
