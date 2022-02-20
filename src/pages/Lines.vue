@@ -1,6 +1,6 @@
 <template>
-  <v-expansion-panels focusable class="panels my-16 pa-10">
-    <div class="display-1 my-5">IN THIS WINDOW, YOU WILL SEE MY LANGUAGE EXPERIENCE</div>
+  <v-expansion-panels focusable class="panels my-10 pa-10">
+    <h1 class="my-5">LANGUAGE EXPERIENCE</h1>
     <v-expansion-panel>
       <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
       <v-expansion-panel-content  class="red accent-1 font-weight-black"    align="center" >
@@ -58,6 +58,10 @@
    font-family: 'Staatliches', cursive;
    font-size: 1.5em;
 }
+
+ h1{
+      font-family: 'Mochiy Pop P One', sans-serif;
+    }
 
 
 
