@@ -25,11 +25,18 @@
       <v-expansion-panel>
       <v-expansion-panel-header class="green accent-3 title font-weight-bold" >VUE.JS</v-expansion-panel-header>
       <v-expansion-panel-content class="green accent-1 font-weight-black" align="center">
-        DIRECTIVES AND THEIR'S SHORTHANDS — DECLARATIVE RENDERING  — LIFE CICLES  —  EVENTS  —  COMPONENTS  — TEMPLATES  — FOLDERS  — VUE-ROUTER  — VUEX  — REQUEST HTTP  — VUE-DEVTOOLS — VUETIFY — DEPENDENCIES —  NPM/YARN  — NUXT.JS  — VERSION CONTROL WITH GIT  — TESTING WITH CYPRESS —  ETC...
+        DIRECTIVES AND THEIR'S SHORTHANDS — DECLARATIVE RENDERING  — LIFE CICLES  —  EVENTS  —  COMPONENTS  — TEMPLATES  — FOLDERS  — VUE-ROUTER  — VUEX  — REQUEST HTTP  — VUE-DEVTOOLS — VUETIFY — DEPENDENCIES  — NUXT.JS  —  ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
     <v-expansion-panel>
+      <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
+      <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
+        NPM/YARN  —  GIT —  PRETTIER  —  CYPRESS  — WEBPACK  — GITHUB  — VSCODE  — ETC...
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+
+     <v-expansion-panel>
       <v-expansion-panel-header class="purple darken-3 title font-weight-bold">EROS BURASTERO</v-expansion-panel-header>
       <v-expansion-panel-content class="purple lighten-1 font-weight-black " align="center">
         JUNIOR FRONT-END DEVELOPER — LANGUAGES: ENGLISH (B2 AND IMPROVING)  — SPANISH (NATIVE)  — RUSSIAN (B2)  — ITALIAN (B1)  
