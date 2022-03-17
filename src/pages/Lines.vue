@@ -32,7 +32,7 @@
     <v-expansion-panel>
       <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
-        NPM/YARN  —  GIT —  PRETTIER  —  CYPRESS  — WEBPACK  — GITHUB  — VSCODE  — ETC...
+        NPM/YARN  —  GIT —  PRETTIER  —  CYPRESS  — WEBPACK  — BABEL  — GITHUB  — VSCODE  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
