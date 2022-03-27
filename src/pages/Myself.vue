@@ -6,7 +6,7 @@
     :class="{'d-flex' : $vuetify.breakpoint.xsAndDown}">
       <v-row justify="center">
         <v-col class="text-center">
-          <h1 class="black--text">EROS BURASTERO</h1>
+          <h1>EROS BURASTERO</h1>
           <h4>JUNIOR FRONT-END DEVELOPER</h4>
         </v-col>
       </v-row>

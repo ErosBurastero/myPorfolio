@@ -1,6 +1,6 @@
 <template>
   <v-expansion-panels focusable class="panels my-10 pa-10">
-    <h1 class="my-5">TECHNOLOGIES EXPERIENCE</h1>
+    <h1 class="my-5">TECHNOLOGY EXPERIENCE</h1>
     <v-expansion-panel>
       <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
       <v-expansion-panel-content  class="red accent-1 font-weight-black"    align="center" >
@@ -32,7 +32,7 @@
     <v-expansion-panel>
       <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
-        NPM/YARN  —  GIT —  PRETTIER  —  CYPRESS  — WEBPACK  — BABEL  — GITHUB  — VSCODE  — ETC...
+        NPM/YARN  —  GIT/GITFLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS  —  JEST  —  WEBPACK  — BABEL  —  VSCODE  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
@@ -53,9 +53,10 @@
   export default {
     data () {
       return {
-    
+     
       }
     },
+
   }
 </script>
 
