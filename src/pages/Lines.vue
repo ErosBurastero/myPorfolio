@@ -11,7 +11,7 @@
       <v-expansion-panel>
       <v-expansion-panel-header class="blue accent-4 title font-weight-bold">CSS</v-expansion-panel-header>
       <v-expansion-panel-content class="blue accent-1 font-weight-black" align="center">
-        FLEX  —  GRID  — MOVIL FIRST OR RESPONSIVE DESIGN — BORDERS  — POSITIONS  — CURSORS  — ANIMATIONS  — VARIABLES  — ETC...
+        FLEX  —  GRID  — MOVIL FIRST OR RESPONSIVE DESIGN — BORDERS  — POSITIONS  — CURSORS  — ANIMATIONS  — VARIABLES  — SCSS/SASS  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
@@ -32,7 +32,7 @@
     <v-expansion-panel>
       <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
-        NPM/YARN  —  GIT/GITFLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS  —  JEST  —  WEBPACK  — BABEL  —  VSCODE  — ETC...
+        NPM/YARN  —  GIT/GITFLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS  —  JEST  —  WEBPACK  — BABEL  —  VSCODE  — SCSS/SASS  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
