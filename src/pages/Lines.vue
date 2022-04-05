@@ -24,15 +24,22 @@
 
       <v-expansion-panel>
       <v-expansion-panel-header class="green accent-3 title font-weight-bold" >VUE.JS</v-expansion-panel-header>
-      <v-expansion-panel-content class="green accent-1 font-weight-black" align="center">
+      <v-expansion-panel-content class="green accent-2 font-weight-black" align="center">
         DIRECTIVES AND THEIR'S SHORTHANDS — DECLARATIVE RENDERING  — LIFE CICLES  —  EVENTS  —  COMPONENTS  — TEMPLATES  — FOLDERS  — VUE-ROUTER  — VUEX  — REQUEST HTTP  — VUE-DEVTOOLS — VUETIFY — DEPENDENCIES  — NUXT.JS  —  ETC...
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+
+      <v-expansion-panel>
+      <v-expansion-panel-header class="green accent-2 title font-weight-bold" >NUXT.JS</v-expansion-panel-header>
+        <v-expansion-panel-content class="green accent-1 font-weight-black" align="center">
+          FOLDERS BEHAVIOUR  — REUSABLE COMPONENTS  — LAYOUTS  —  PLUGINS  —  CYPRESS  —  SASS/SCSS  — ROUTING  —  NUXT.CONFIG  — SERVICES   — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
     <v-expansion-panel>
       <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
-        NPM/YARN  —  GIT/GITFLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS  —  JEST  —  WEBPACK  — BABEL  —  VSCODE  — SCSS/SASS  — ETC...
+        NPM/YARN  —  GIT/GIT-FLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS   —  WEBPACK  — BABEL  —  VSCODE  — SCSS/SASS  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
@@ -49,17 +56,6 @@
   </v-expansion-panels>
 </template>
 
-<script>
-  export default {
-    data () {
-      return {
-     
-      }
-    },
-
-  }
-</script>
-
 <style scoped>
 
 .v-expansion-panel-content{
@@ -70,7 +66,5 @@
  h1{
       font-family: 'Mochiy Pop P One', sans-serif;
     }
-
-
 
 </style>

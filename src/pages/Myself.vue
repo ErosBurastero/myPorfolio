@@ -22,7 +22,7 @@
           <v-container>
             <v-row>
               <v-col cols="12" md="10" align="center" class="font-weight-black">
-                I HAVE 1 YEAR OF EXPERIENCE IN<strong class="red--text">
+                 1 YEAR OF EXPERIENCE IN<strong class="red--text">
                   HTML</strong
                 >
                 , <strong class="blue--text">CSS</strong> ,
@@ -43,12 +43,14 @@
           </v-card-title>
           <v-container>
             <v-row>
+              
+              
               <v-col cols="12" md="10" align="center" class="font-weight-black">
-                MY NAME IS EROS BURASTERO, I'M FROM ARGENTINA AND I AM A
-                FRONT-END DEVELOPER WITH 1 YEAR EXPERIENCE, I AM 21 YEARS OLD,
-                AND MY CURRENT GOAL IS TO LEARN AS MUCH AS I CAN ABOUT EVERY
-                SINGLE TECNOLOGY IN FRONT END AND THEN START TO LEARN BACK END
-                TO REACH MY FINAL GOAL TO BE A FULL STACK DEVELOPER. <br />
+                MY NAME IS EROS BURASTERO.
+                I'M AN ARGENTINIAN FRONT-END DEVELOPER.<br>
+                I'M 21 YEARS OLD.
+                MY CURRENT GOAL IS TO BECOME A FULL STACK DEVELOPER.<br> AT THE MOMENT, I'M WORKING ON MY SKILLS IN FRONT-END DEVELOPMENT.<br>
+                I'M PLANNING TO CONTINUE LEARNING BACK-END TECHNOLOGIES 
               </v-col>
             </v-row>
           </v-container>
@@ -64,10 +66,10 @@
           <v-container>
             <v-row>
               <v-col cols="12" md="10" align="center" class="font-weight-black">
-                RESPONSABLE PERSON, I ALWAYS WORK WITH THE BEST PRESICION AND
-                ORGANIZATION, I ALWAYS IMPROVE THE KNOWLEDGES OF THINGS THAT I
-                FILL WITH PASION. <br />
-                I HAVE A HIGH CAPACITY TO CREATE SOLUTIONS, AND WORK WITH A TEAM
+                I'M A RESPONSIBLE PERSON. I WORK WITH PRESICION AND
+                ORGANIZATION.<br>
+                I'M ALWAYS WORKING ON IMPROVING MY KNOWLEDGE IN FRONT-END TECHNOLOGIES.<br>
+                I HAVE A HIGH CAPACITY OF CREATING SOLUTIONS, AND WORKING WITH A TEAM
               </v-col>
             </v-row>
           </v-container>
