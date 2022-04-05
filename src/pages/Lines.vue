@@ -1,10 +1,16 @@
 <template>
   <v-expansion-panels focusable class="panels my-10 pa-10">
     <h1 class="my-5">TECHNOLOGY EXPERIENCE</h1>
+     <v-expansion-panel>
+      <v-expansion-panel-header class="purple darken-3 title font-weight-bold">EROS BURASTERO</v-expansion-panel-header>
+      <v-expansion-panel-content class="purple lighten-1 font-weight-black " align="center">
+        JUNIOR FRONT-END DEVELOPER — LANGUAGES: ENGLISH (B2 AND IMPROVING)  — SPANISH (NATIVE)  — RUSSIAN (B2)  — ITALIAN (B1)  
+      </v-expansion-panel-content>
+    </v-expansion-panel>
     <v-expansion-panel>
       <v-expansion-panel-header  class="red accent-3 title font-weight-bold">HTML</v-expansion-panel-header>
       <v-expansion-panel-content  class="red accent-1 font-weight-black"    align="center" >
-        TAGS  —  META TAG  —  SEO  — HREF  — INPUTS  —  ETC...
+        SEMANTIC HTML  —  META TAG  —  SEO  — HREF  — INPUTS  —  ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
@@ -37,18 +43,13 @@
     </v-expansion-panel>
 
     <v-expansion-panel>
-      <v-expansion-panel-header class="grey darken-3 title font-weight-bold">TOOLS</v-expansion-panel-header>
+      <v-expansion-panel-header class="black white--text title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
         NPM/YARN  —  GIT/GIT-FLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS   —  WEBPACK  — BABEL  —  VSCODE  — SCSS/SASS  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
-     <v-expansion-panel>
-      <v-expansion-panel-header class="purple darken-3 title font-weight-bold">EROS BURASTERO</v-expansion-panel-header>
-      <v-expansion-panel-content class="purple lighten-1 font-weight-black " align="center">
-        JUNIOR FRONT-END DEVELOPER — LANGUAGES: ENGLISH (B2 AND IMPROVING)  — SPANISH (NATIVE)  — RUSSIAN (B2)  — ITALIAN (B1)  
-      </v-expansion-panel-content>
-    </v-expansion-panel>
+    
 
 
 
