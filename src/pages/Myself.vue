@@ -109,6 +109,7 @@ export default {
   data() {
     return {
       scrollPosition: null,
+       cities: ["Buenos Aires", "Puerto Rico", "La Habana"]
     };
   },
 
@@ -119,10 +120,10 @@ export default {
     
   },
 
+
   mounted() {
     window.addEventListener("scroll", this.updateScroll);
  
-    
   },
 
 

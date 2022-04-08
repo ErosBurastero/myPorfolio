@@ -24,14 +24,14 @@
       <v-expansion-panel >
       <v-expansion-panel-header class="yellow accent-2 title font-weight-bold">JAVASCRIPT</v-expansion-panel-header>
       <v-expansion-panel-content class="yellow accent-1 font-weight-black" align="center" >
-        VARIABLES  —  ARRAYS  — ARRAY OBJECT — ARRAY METHODS  — CONCAT  — CONDITIONALS  — FUNCTIONS  — OOP  — MATH OBJECT  — CONSOLE  — DOM  — ELEMENTS  — EVENTS  — TIMERS  — TRY AND CATCH —  CALLBACKS  — PROMISES — AWAIT AND ASYNC  — REQUEST HTTP  — FETCH  — JSON —  ETC... 
+        VARIABLES  —  ARRAYS  — ARRAY OBJECT — ARRAY METHODS  — CONCAT  — CONDITIONALS  — FUNCTIONS  — OOP  — MATH OBJECT  — CONSOLE  — DOM  — ELEMENTS  — EVENTS  — TIMERS  — TRY AND CATCH —  CALLBACKS  — PROMISES — ASYNC AND AWAIT  — REQUEST HTTP  — FETCH/AXIOS  — JSON —  ETC... 
       </v-expansion-panel-content>
     </v-expansion-panel>
 
       <v-expansion-panel>
       <v-expansion-panel-header class="green accent-3 title font-weight-bold" >VUE.JS</v-expansion-panel-header>
       <v-expansion-panel-content class="green accent-2 font-weight-black" align="center">
-        DIRECTIVES AND THEIR'S SHORTHANDS — DECLARATIVE RENDERING  — LIFE CICLES  —  EVENTS  —  COMPONENTS  — TEMPLATES  — FOLDERS  — VUE-ROUTER  — VUEX  — REQUEST HTTP  — VUE-DEVTOOLS — VUETIFY — DEPENDENCIES  — NUXT.JS  —  ETC...
+        DIRECTIVES AND THEIR'S SHORTHANDS — DECLARATIVE RENDERING  — LIFE CICLES  —  EVENTS  —  COMPONENTS  — TEMPLATES  — FOLDERS  — VUE-ROUTER  — VUEX  — FETCH/AXIOS  — VUE-DEVTOOLS — VUETIFY — DEPENDENCIES  —  ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
