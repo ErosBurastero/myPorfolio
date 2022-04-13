@@ -43,11 +43,20 @@
     </v-expansion-panel>
 
     <v-expansion-panel>
+      <v-expansion-panel-header class="red title font-weight-bold">TESTING</v-expansion-panel-header>
+      <v-expansion-panel-content class="red lighten-1 font-weight-black " align="center">
+         CYPRESS   —  JEST(LEARNING)
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+
+    <v-expansion-panel>
       <v-expansion-panel-header class="black white--text title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
         NPM/YARN  —  GIT/GIT-FLOW —  GITHUB/GITLAB  — PRETTIER  —  CYPRESS   —  WEBPACK  — BABEL  —  VSCODE  — SCSS/SASS  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
+
+      
 
     
 
