@@ -38,7 +38,7 @@
       <v-expansion-panel>
       <v-expansion-panel-header class="green accent-2 title font-weight-bold" >NUXT.JS</v-expansion-panel-header>
         <v-expansion-panel-content class="green accent-1 font-weight-black" align="center">
-          FOLDERS BEHAVIOUR  — REUSABLE COMPONENTS  — LAYOUTS  —  PLUGINS  —  CYPRESS  —  SASS/SCSS  — ROUTING  —  NUXT.CONFIG  — SERVICES   — ETC...
+          FOLDERS BEHAVIOUR  — REUSABLE COMPONENTS  — LAYOUTS  —  PLUGINS  —  CYPRESS  —  SASS/SCSS  — ROUTING  —  NUXT.CONFIG  — SERVICES   —  VUE META  — ETC...
       </v-expansion-panel-content>
     </v-expansion-panel>
 
