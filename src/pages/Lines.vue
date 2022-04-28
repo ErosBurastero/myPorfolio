@@ -49,6 +49,13 @@
       </v-expansion-panel-content>
     </v-expansion-panel>
 
+     <v-expansion-panel>
+      <v-expansion-panel-header class="green title font-weight-bold" >DATABASE NOSQL</v-expansion-panel-header>
+        <v-expansion-panel-content class="green accent-4 font-weight-black" align="center">
+          mongoDB
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+
     <v-expansion-panel>
       <v-expansion-panel-header class="black white--text title font-weight-bold">TOOLS</v-expansion-panel-header>
       <v-expansion-panel-content class="grey darken-2 font-weight-black " align="center">
