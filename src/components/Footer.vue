@@ -26,7 +26,7 @@
 
       <v-card-text class="white--text">
         <strong>
-          CONTACT ME BY WHATSAPP
+          WHATSAPP
           <a
             href="https://wa.me/541173694471?text=Hi,%20my%20name%20is%20..."
             target="blank"
